@@ -1,5 +1,5 @@
 <h1 align="center">
-  Gatsby Starter for the Emulsify Design System
+  Gatsby Starter for the Emulsify Design System (Twig)
 </h1>
 
 ## 🚀 Install
