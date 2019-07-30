@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-starter-emulsify",
+  "version": "1.0.0-alpha.1",
+  "description": "Emulsify Gatsby Starter using Emulsify Gatsby Theme",
+  "main": "index.js",
+  "keywords": [
+    "gatsby"
+  ],
+  "author": "Evan Willhite <evan@fourkitchens.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.13.42",
+    "gatsby-theme-emulsify": "^1.0.0-alpha.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop"
+  }
+}
