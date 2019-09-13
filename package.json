@@ -9,10 +9,13 @@
   "author": "Evan Willhite <evan@fourkitchens.com>",
   "license": "MIT",
   "dependencies": {
+    "add-attributes-twig-extension": "^0.1.0",
+    "bem-twig-extension": "^0.1.0",
     "gatsby": "^2.13.42",
-    "gatsby-theme-emulsify": "^1.0.0-alpha.3",
+    "gatsby-theme-emulsify": "^1.0.0-alpha.5",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "twig-drupal-filters": "^2.0.0"
   },
   "scripts": {
     "build": "gatsby build",
