@@ -6,6 +6,7 @@ module.exports = {
         componentLibPath: 'components',
         docPagesPath: 'styleguide',
         basePath: __dirname,
+        plugins: ["gatsby-emulsify-parser-twig"],
         // designSystems: [
         //   {
         //     name: "Parent/Child Design System 1",
