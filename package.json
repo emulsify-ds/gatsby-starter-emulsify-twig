@@ -17,6 +17,9 @@
     "react-dom": "^16.8.6",
     "twig-drupal-filters": "^2.0.0"
   },
+  "resolutions": {
+    "react": "16.11.0"
+  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop"
