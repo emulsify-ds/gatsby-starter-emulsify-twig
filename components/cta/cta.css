@@ -6,3 +6,12 @@
   text-align: center;
   text-transform: uppercase;
 }
+
+.cta--simple {
+  background-color: aquamarine;
+}
+
+.cta--large {
+  background-color: pink;
+  padding: 1em;
+}

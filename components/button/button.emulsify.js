@@ -1,4 +1,5 @@
 import button from './button.twig';
+import buttonDefault from './button.yml';
 import code from './Code.mdx';
 import style from './Style.md';
 import usage from './Usage.md';
@@ -10,8 +11,5 @@ export default {
     style,
     usage,
   ],
-  component: button({
-    button_content: 'Four Kitchens',
-    button_url: 'https://fourkitchens.com',
-  }),
+  component: button(buttonDefault),
 };
