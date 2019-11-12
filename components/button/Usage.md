@@ -1,9 +1,6 @@
 ---
-title: "Button Usage"
-publishToStyleGuide: true
+title: "Usage"
 description: "All About Button Usage"
-tab: "Usage"
-tabOrder: 3
 ---
 
 # This is about Button Usage

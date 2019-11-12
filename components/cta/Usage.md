@@ -1,11 +1,6 @@
 ---
-title: "CTAs"
-publishToStyleGuide: true
+title: "Usage"
 description: "All About CTA Usage"
-tab: "Usage"
-tabOrder: 3
 ---
 
 # This is about CTA Usage
-
-
