@@ -5,6 +5,8 @@ import ctaLarge from './cta-large.yml';
 import code from './Code.mdx';
 import style from './Style.md';
 import usage from './Usage.md';
+import button from '../button/button.emulsify.js';
+import { resolve } from 'path';
 
 export default {
   title: 'CTA / Button and heading',
@@ -14,6 +16,10 @@ export default {
     usage,
   ],
   component: cta(ctaDefault),
+  dependencies: [button],
+  assets: [
+    { filepath: resolve(__dirname, './cta.css'), typeOfAsset: 'css' },
+  ],
 };
 
 export const CTASimple = cta({
